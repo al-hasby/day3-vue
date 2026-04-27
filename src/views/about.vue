@@ -8,7 +8,7 @@
       <div class="about-hero__bg"></div>
       <div class="about-hero__content">
         <h1>ABOUT HYBE</h1>
-        <p>We Believe In Music</p>
+        <p>We Believe In Music </p>
       </div>
     </section>
 
